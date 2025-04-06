@@ -10,7 +10,7 @@ This repository contains my assignment submissions and analysis for the postgrad
 - First-passage time analysis with confidence intervals.
 - Exploration of multiple equilibria and tipping point dynamics.
 
-> **File:** `Assignment2_500386873.pdf`
+> **File:** `Assignment 2/Assignment2_500386873.nb` or to preview `Assignment 2/Assignment2_500386873.pdf`
 
 ---
 
@@ -27,7 +27,7 @@ This repository contains my assignment submissions and analysis for the postgrad
   - Skewness & Kurtosis
 - Analysis of abrupt transitions during the **Bølling–Allerød** warming and the **Younger Dryas**.
 
-> **File:** `Assignment3_500386873.pdf`
+> **File:** `Assignment 3/Assignment3_500386873.nb` or to preview `Assignment 3/Assignment3_500386873.pdf`
 
 ---
 
